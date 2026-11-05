@@ -1,0 +1,11 @@
+Dependencias del proyecto:
+Django 6.x: Framework web utilizado para implementar el patrón MTV, el sistema de rutas, vistas y modelos.
+SQLite: Sistema gestor de base de datos utilizado para almacenar la información de categorías y sitios patrimoniales.
+
+Tecnologías utilizadas:
+Python
+Django
+HTML5
+CSS
+SQLite
+Django ORM
